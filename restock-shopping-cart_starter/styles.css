@@ -1,0 +1,32 @@
+h1 {
+    background: #6495ED;
+  }
+  
+  .total {
+    padding: 5px;
+    border: 0.5px solid bisque;
+    border-radius: 5px;
+    background-color: #6495ED;
+  }
+  
+  .card-body {
+    background-color: #FFF0F5;
+  }
+  .cart {
+    border: 5px solid #FFF0F5;
+    margin: 5px;
+    padding: 5px;
+    border-radius: 5px;
+    background-color: #FFF0F5;
+    height: fit-content;
+  }
+  .products {
+    border: 5px solid #FFF0F5;
+    border-radius: 5px;
+    background-color: #FFF0F5;
+    margin: 5px;
+    padding: 5px;
+  }
+  .title {
+    margin-left: 20px;
+  }
